@@ -1,3 +1,3 @@
-# Data-Envelopment-Analysis
+# Data-Exploration-Analysis
 
 A collection of all my exploratory data analyses created through Jupyter Notebooks
