@@ -5,4 +5,4 @@ A collection of all my exploratory data analyses created through Jupyter Noteboo
 
 
 # Note:
-If github fails to load the Notebooks, copy and the paste URL to https://nbviewer.jupyter.org/ to view it
+If github fails to load the Notebooks, copy and the paste URL to https://nbviewer.jupyter.org/ to view notebooks
