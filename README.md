@@ -1,6 +1,6 @@
 # Data-Exploration-Analysis
 
-A collection of all my exploratory data analyses created through Jupyter Notebooks
+A collection of my exploratory data analyses I've done for fun
 
 
 
